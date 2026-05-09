@@ -241,6 +241,7 @@ entropy_norm = H / log2(vocab)   bounded to [0, 1]
 ---
 
 ## 🏗️ System Architecture
+<img width="1360" height="1640" alt="image" src="https://github.com/user-attachments/assets/39946094-0aab-48ad-bc2f-7a599dd70062" />
 
 ```
 ┌───────────────────────────────────────────────────────────┐
@@ -276,6 +277,8 @@ entropy_norm = H / log2(vocab)   bounded to [0, 1]
 ```
 
 ---
+<img width="1360" height="1280" alt="image" src="https://github.com/user-attachments/assets/c1f3ca4a-6811-4a19-a486-05b685167aa9" />
+
 
 ## ⚙️ Tech Stack
 
@@ -353,6 +356,9 @@ source ~/.bashrc
 
 ---
 
+<img width="674" height="623" alt="Screenshot 2026-05-09 112508" src="https://github.com/user-attachments/assets/45643617-91df-41dc-8a5d-7d4d10e7670c" />
+
+
 ## 📊 Live Output Examples
 
 **Normal session:**
@@ -383,6 +389,22 @@ source ~/.bashrc
   📘 Security+ Domain 1.3 | CySA+ Domain 1.2 | Network+ Domain 2.1
   🔴 URGENT: Suspend session. Alert security team. Initiate IR.
 ```
+## 🖼️ Real-Time Monitoring
+
+### Normal User Activity
+
+<img width="2047" height="1279" alt="image" src="https://github.com/user-attachments/assets/d567e9cf-23eb-415f-bdd1-5ea83b4f98bf" />
+
+
+### Reconnaissance Detection
+
+<img width="1279" height="782" alt="Screenshot 2026-05-09 122936" src="https://github.com/user-attachments/assets/f83969c8-07b6-41c2-9c0e-7451001cd69c" />
+
+
+### Privilege Escalation + Exfiltration Detection
+
+<img width="2048" height="423" alt="b887d891-897d-4eeb-8595-a4ba538c10db" src="https://github.com/user-attachments/assets/6d19cddc-753d-4e89-84f5-cda975aad669" />
+
 
 ---
 
@@ -401,6 +423,7 @@ source ~/.bashrc
 > Score varies by user profile — a Kali pentester who uses `nmap` daily scores lower than a developer who never does. That is the adaptive profiling working correctly.
 
 ---
+That is the adaptive profiling working correctly.
 
 ## 👥 Multi-User Profiles
 
@@ -450,6 +473,11 @@ This allows the system to detect suspicious behavior even when no exact attack s
 > **Academic positioning:** This is a research prototype demonstrating continuous behavioral authentication. It is a complement to signature-based detection, not a replacement. The goal is explainable behavioral profiling, not perfect detection accuracy.
 
 ---
+
+## 🖼️ AI SOC Report Generation
+
+<img width="2048" height="829" alt="33e52d06-1a11-484b-8ac1-bd4a333fab2e" src="https://github.com/user-attachments/assets/60db6679-1839-4f3c-9a07-2576cd337f64" />
+
 
 ## 🔮 Future Work
 
