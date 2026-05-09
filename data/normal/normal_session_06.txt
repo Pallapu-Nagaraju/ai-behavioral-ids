@@ -1,0 +1,54 @@
+pwd
+git diff
+nano README.md
+vim config.py
+cd ..
+cd Projects
+find . -name '*.py'
+git log
+source venv/bin/activate
+source venv/bin/activate
+source venv/bin/activate
+ls -la
+cd Projects
+pwd
+echo $PATH
+ls -la
+cp config.example config.py
+mv old.py new.py
+git push
+pip install requests
+git diff
+mv old.py new.py
+python3 main.py
+source venv/bin/activate
+source venv/bin/activate
+git pull
+git log
+ls -la
+git branch
+pip freeze > requirements.txt
+cd Projects
+git pull
+mv old.py new.py
+pip list
+mv old.py new.py
+ls -lh
+nano README.md
+cat requirements.txt
+rm -rf build
+git commit -m 'update'
+git commit -m 'update'
+tar -xzf archive.tar.gz
+git commit -m 'update'
+pip install requests
+git pull
+git add .
+tar -xzf archive.tar.gz
+git pull
+pip install requests
+clear
+zip -r backup.zip .
+mv old.py new.py
+ls -lh
+ls -lh

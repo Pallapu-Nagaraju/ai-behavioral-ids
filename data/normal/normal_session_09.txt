@@ -1,0 +1,22 @@
+clear
+pip list
+echo $PATH
+mkdir src
+exit
+grep -r 'TODO' src/
+git commit -m 'update'
+pip list
+vim config.py
+cat requirements.txt
+git commit -m 'update'
+git commit -m 'update'
+git commit -m 'update'
+rm -rf build
+git log
+git status
+clear
+git diff
+git pull
+pwd
+git commit -m 'update'
+ls

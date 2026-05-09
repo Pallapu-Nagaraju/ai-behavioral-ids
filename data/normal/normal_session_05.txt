@@ -1,0 +1,58 @@
+mkdir src
+git status
+git status
+vim config.py
+exit
+cp config.example config.py
+find . -name '*.py'
+pip freeze > requirements.txt
+git commit -m 'update'
+cd Documents
+exit
+git diff
+git checkout main
+export DEBUG=true
+zip -r backup.zip .
+cd Projects
+git push
+pip list
+git checkout main
+tar -xzf archive.tar.gz
+git checkout main
+find . -name '*.py'
+git commit -m 'update'
+clear
+pip list
+python3 -m pytest
+exit
+rm -rf build
+mkdir src
+git commit -m 'update'
+git commit -m 'update'
+mv old.py new.py
+cd ..
+pip freeze > requirements.txt
+find . -name '*.py'
+python3 -m pytest
+ls
+rm -rf build
+git log
+ls -lh
+source venv/bin/activate
+pip install requests
+pip list
+nano README.md
+git add .
+git add .
+history
+echo $PATH
+python3 main.py
+git push
+cp config.example config.py
+ls
+mv old.py new.py
+export DEBUG=true
+git checkout main
+find . -name '*.py'
+vim config.py
+ls

@@ -1,0 +1,8 @@
+whoami
+net user
+net localgroup administrators
+powershell -ExecutionPolicy Bypass -File script.ps1
+Start-Process powershell -WindowStyle Hidden
+sc query
+sc start sshd
+reg query HKLM\Software

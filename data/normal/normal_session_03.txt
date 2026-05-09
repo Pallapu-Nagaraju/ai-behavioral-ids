@@ -1,0 +1,116 @@
+chmod 755 script.sh
+sudo apt upgrade -y
+chmod 755 script.sh
+chown user:group file.txt
+cat /var/log/syslog
+htop
+ssh user@192.168.1.10
+du -sh *
+tail -f /var/log/nginx/access.log
+tail -f /var/log/nginx/access.log
+htop
+du -sh *
+scp backup.zip user@server:/home/user/
+df -h
+ssh user@192.168.1.10
+tail -f /var/log/nginx/access.log
+sudo systemctl status nginx
+lsb_release -a
+scp backup.zip user@server:/home/user/
+kill -9 1234
+crontab -e
+df -h
+ip addr
+top
+free -h
+tail -f /var/log/nginx/access.log
+ping google.com
+sudo apt upgrade -y
+cat /etc/hosts
+cat /etc/hosts
+ps aux
+tail -f /var/log/nginx/access.log
+tail -f /var/log/nginx/access.log
+journalctl -xe
+sudo apt update
+ssh user@192.168.1.10
+sudo systemctl status nginx
+kill -9 1234
+du -sh *
+htop
+ssh user@192.168.1.10
+top
+ping google.com
+ping google.com
+htop
+cat /etc/hosts
+sudo apt upgrade -y
+htop
+free -h
+cat /etc/hosts
+top
+lsb_release -a
+sudo apt update
+crontab -e
+uname -a
+ssh user@192.168.1.10
+df -h
+ssh user@192.168.1.10
+top
+df -h
+cat /etc/hosts
+ssh user@192.168.1.10
+sudo apt update
+chmod 755 script.sh
+uname -a
+ip addr
+uname -a
+free -h
+sudo systemctl status nginx
+du -sh *
+tail -f /var/log/nginx/access.log
+chmod 755 script.sh
+ifconfig
+cat /var/log/syslog
+cat /etc/hosts
+cat /etc/hosts
+lsb_release -a
+journalctl -xe
+ps aux
+uname -a
+sudo apt upgrade -y
+ip addr
+uname -a
+sudo apt update
+tail -f /var/log/nginx/access.log
+scp backup.zip user@server:/home/user/
+lsb_release -a
+df -h
+tail -f /var/log/nginx/access.log
+uname -a
+du -sh *
+du -sh *
+sudo apt update
+crontab -e
+chmod 755 script.sh
+sudo systemctl status nginx
+free -h
+kill -9 1234
+ping google.com
+kill -9 1234
+sudo systemctl status nginx
+journalctl -xe
+sudo systemctl status nginx
+tail -f /var/log/nginx/access.log
+du -sh *
+sudo systemctl restart apache2
+lsb_release -a
+free -h
+ifconfig
+cat /etc/hosts
+uname -a
+top
+scp backup.zip user@server:/home/user/
+df -h
+crontab -e
+cat /etc/hosts

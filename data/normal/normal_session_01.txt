@@ -1,0 +1,120 @@
+mkdir src
+cd Projects
+git branch
+git diff
+git log
+rm -rf build
+pwd
+zip -r backup.zip .
+ls -lh
+exit
+export DEBUG=true
+cd ..
+cd Projects
+ls -lh
+git push
+git log
+mv old.py new.py
+cd Projects
+clear
+git pull
+zip -r backup.zip .
+echo $PATH
+git log
+source venv/bin/activate
+exit
+git branch
+cd Documents
+git add .
+export DEBUG=true
+python3 main.py
+git branch
+git status
+git push
+python3 main.py
+pwd
+ls -lh
+pip list
+pwd
+python3 -m pytest
+python3 -m pytest
+git checkout main
+cd ..
+grep -r 'TODO' src/
+zip -r backup.zip .
+mkdir src
+pip list
+ls -lh
+clear
+nano README.md
+pip install requests
+history
+git pull
+ls -la
+cd ..
+git log
+nano README.md
+ls -lh
+git log
+pwd
+pip list
+git branch
+grep -r 'TODO' src/
+pip install requests
+git add .
+pip install requests
+python3 -m pytest
+git push
+git branch
+ls -la
+git add .
+zip -r backup.zip .
+git diff
+git add .
+grep -r 'TODO' src/
+pip list
+git branch
+clear
+git log
+cat requirements.txt
+ls
+git log
+cd ..
+cat requirements.txt
+pip freeze > requirements.txt
+git branch
+ls -la
+git push
+history
+cat requirements.txt
+git push
+cp config.example config.py
+pip freeze > requirements.txt
+grep -r 'TODO' src/
+git status
+git checkout main
+rm -rf build
+git diff
+clear
+zip -r backup.zip .
+git checkout main
+exit
+export DEBUG=true
+exit
+pip freeze > requirements.txt
+pip install requests
+git log
+rm -rf build
+mv old.py new.py
+cp config.example config.py
+ls -lh
+ls
+mkdir src
+git status
+git add .
+export DEBUG=true
+ls -la
+pip list
+pip list
+grep -r 'TODO' src/
+tar -xzf archive.tar.gz

@@ -1,0 +1,9 @@
+ipconfig /all
+arp -a
+route print
+netstat -an
+Get-NetIPAddress
+Test-Connection 192.168.1.1
+Test-Connection 192.168.1.100
+nbtstat -A 192.168.1.5
+Get-DnsClientCache

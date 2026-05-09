@@ -1,0 +1,31 @@
+sudo apt upgrade -y
+crontab -e
+sudo systemctl status nginx
+cat /etc/hosts
+chown user:group file.txt
+tail -f /var/log/nginx/access.log
+ssh user@192.168.1.10
+lsb_release -a
+htop
+free -h
+sudo systemctl status nginx
+free -h
+sudo apt upgrade -y
+journalctl -xe
+ip addr
+free -h
+sudo systemctl status nginx
+top
+chmod 755 script.sh
+ps aux
+df -h
+df -h
+du -sh *
+sudo systemctl restart apache2
+tail -f /var/log/nginx/access.log
+chmod 755 script.sh
+ssh user@192.168.1.10
+du -sh *
+tail -f /var/log/nginx/access.log
+sudo systemctl status nginx
+kill -9 1234

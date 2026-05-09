@@ -1,0 +1,18 @@
+clear
+cd Projects
+git add .
+history
+nano README.md
+ls -lh
+git commit -m 'update'
+ls -la
+pip install requests
+git add .
+git log
+echo $PATH
+cat requirements.txt
+git commit -m 'update'
+git pull
+nano README.md
+ls -la
+echo $PATH

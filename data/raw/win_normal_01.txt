@@ -1,0 +1,13 @@
+cd Desktop
+dir
+mkdir project
+cd project
+echo Hello > file.txt
+notepad file.txt
+type file.txt
+copy file.txt backup.txt
+ren backup.txt backup_old.txt
+del backup_old.txt
+cd ..
+dir
+

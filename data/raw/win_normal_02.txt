@@ -1,0 +1,11 @@
+cd Documents
+dir
+python --version
+pip list
+pip install flask
+python app.py
+git init
+git add .
+git commit -m "init"
+code .
+dir

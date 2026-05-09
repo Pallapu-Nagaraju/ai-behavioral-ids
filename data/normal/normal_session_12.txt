@@ -1,0 +1,24 @@
+git log
+history
+git log
+git log
+grep -r 'TODO' src/
+history
+grep -r 'TODO' src/
+git status
+ls -la
+exit
+rm -rf build
+vim config.py
+echo $PATH
+vim config.py
+pip install requests
+pip freeze > requirements.txt
+history
+git pull
+history
+ls -lh
+history
+history
+tar -xzf archive.tar.gz
+export DEBUG=true

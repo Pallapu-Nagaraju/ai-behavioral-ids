@@ -1,0 +1,11 @@
+ls -la
+git add .
+python3 main.py
+pip install requests
+git push
+git log
+find . -name '*.py'
+pip freeze > requirements.txt
+ls -la
+git status
+ls -lh

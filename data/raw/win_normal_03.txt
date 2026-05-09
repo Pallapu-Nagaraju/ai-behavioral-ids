@@ -1,0 +1,12 @@
+whoami
+hostname
+ipconfig
+tasklist
+Get-Process
+Get-Service
+netstat -an
+cls
+dir
+cd Downloads
+dir
+

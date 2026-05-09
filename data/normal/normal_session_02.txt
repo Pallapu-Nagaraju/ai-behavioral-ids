@@ -1,0 +1,98 @@
+nano README.md
+cd ..
+cp config.example config.py
+cd Documents
+tar -xzf archive.tar.gz
+cat requirements.txt
+git pull
+grep -r 'TODO' src/
+cp config.example config.py
+clear
+pip install requests
+git status
+zip -r backup.zip .
+git checkout main
+tar -xzf archive.tar.gz
+grep -r 'TODO' src/
+pip freeze > requirements.txt
+python3 main.py
+git log
+rm -rf build
+find . -name '*.py'
+cd ..
+mv old.py new.py
+cd ..
+git status
+cd ..
+cp config.example config.py
+tar -xzf archive.tar.gz
+nano README.md
+zip -r backup.zip .
+pwd
+cd Documents
+git diff
+git pull
+export DEBUG=true
+rm -rf build
+nano README.md
+mkdir src
+git branch
+mkdir src
+pwd
+zip -r backup.zip .
+ls -la
+grep -r 'TODO' src/
+clear
+cd Projects
+git status
+find . -name '*.py'
+cd Projects
+rm -rf build
+clear
+git pull
+git add .
+git checkout main
+git commit -m 'update'
+cat requirements.txt
+pip install requests
+zip -r backup.zip .
+vim config.py
+git status
+cp config.example config.py
+export DEBUG=true
+git commit -m 'update'
+clear
+cd Projects
+ls -la
+cd Documents
+find . -name '*.py'
+git log
+git checkout main
+ls -lh
+git status
+export DEBUG=true
+tar -xzf archive.tar.gz
+pip list
+pip list
+git branch
+python3 -m pytest
+python3 -m pytest
+git branch
+pwd
+cd Documents
+nano README.md
+python3 -m pytest
+clear
+vim config.py
+exit
+ls -la
+history
+git log
+pip list
+history
+exit
+git branch
+cat requirements.txt
+git checkout main
+mv old.py new.py
+git checkout main
