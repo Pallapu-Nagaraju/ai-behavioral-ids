@@ -502,14 +502,6 @@ This allows the system to detect suspicious behavior even when no exact attack s
 
 ---
 
-## 👤 Author
-
-**Dashakanta** · Final Year Cybersecurity Project
-
-> *Built to show that behavioral AI can verify identity continuously — not just at login, but on every command.*
-
----
-
 <div align="center">
 
 *Pure Python · Behavioral Profiling · 4-Layer Hybrid AI · Real-Time Shell Monitoring*
